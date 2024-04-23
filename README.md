@@ -66,3 +66,9 @@ mut pixelated: ResMut<
     >,
 >,
 ```
+
+## Credits
+
+- `assets/taxi` is from Kenney's [car-kit](https://kenney.nl/assets/car-kit) (Creative Commons CC0)
+- `assets/parallax` is from [the Bevy repo](https://github.com/bevyengine/bevy/tree/c593ee1055047a64501efa5de5885c9d85547af3/assets/textures/parallax_example) and used in the Bevy parallax example
+- oklab functions are mentioned inline in the wgsl shader
